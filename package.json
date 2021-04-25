@@ -43,7 +43,7 @@
     "Electron",
     "youtube-dl"
   ],
-  "author": "Mayeaux",
+  "author": "Mayeaux <ossscott40@gmail.com> (https://derpy.webhorse.nl)",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^5.0.5",
