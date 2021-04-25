@@ -11,7 +11,7 @@
     "build": "build"
   },
   "build": {
-    "asar": false,
+    "asar": true,
     "appId": "ytdownloader-app",
     "dmg": {
       "contents": [
