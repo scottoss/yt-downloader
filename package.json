@@ -11,8 +11,9 @@
     "build": "build"
   },
   "build": {
+    "email": "ossscott40@gmail.com",
     "asar": false,
-    "appId": "yourappid",
+    "appId": "ytdownloader-app.",
     "dmg": {
       "contents": [
         {
